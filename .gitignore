@@ -1,0 +1,7 @@
+# obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# macos
+.DS_Store
