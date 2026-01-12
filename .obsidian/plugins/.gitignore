@@ -1,0 +1,13 @@
+*
+!.gitignore
+# allow all manifest
+!/**/manifest.json
+
+!obsidian-minimal-settings
+!obsidian-minimal-settings/data.json
+
+!obsidian-vimrc-support
+!obsidian-vimrc-support/data.json
+
+!obsidian42-brat
+!obsidian42-brat/data.json
