@@ -5,5 +5,6 @@
   "interfaceFontFamily": "Avenir Next",
   "monospaceFontFamily": "Iosevka",
   "textFontFamily": "Avenir Next",
+  "theme": "system",
   "translucency": false
 }

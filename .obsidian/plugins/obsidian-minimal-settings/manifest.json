@@ -1,0 +1,11 @@
+{
+  "author": "@kepano",
+  "authorUrl": "https://www.twitter.com/kepano",
+  "description": "Change the colors, fonts and features of Minimal Theme.",
+  "fundingUrl": "https://www.buymeacoffee.com/kepano",
+  "id": "obsidian-minimal-settings",
+  "isDesktopOnly": false,
+  "minAppVersion": "1.1.9",
+  "name": "Minimal Theme Settings",
+  "version": "8.1.1"
+}
