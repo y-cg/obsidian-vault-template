@@ -2,7 +2,9 @@
   "markdown:toggle-preview": [
     {
       "key": "E",
-      "modifiers": ["Mod"]
+      "modifiers": [
+        "Mod"
+      ]
     }
   ]
 }
