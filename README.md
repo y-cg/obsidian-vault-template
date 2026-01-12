@@ -2,6 +2,22 @@ A simple but just enough [Obsidian](https://obsidian.md/) vault setup that puts 
 
 > "Stop configuring your vault. Start focusing on the content."
 
+# Get Started
+
+If you already have a vault repo and want to pull this template in as an upstream:
+
+```bash
+git remote add upstream git@github.com:y-cg/obsidian-vault-template.git
+git fetch upstream
+git merge --allow-unrelated-histories upstream/master
+```
+
+Then initialize the submodules used by this template:
+
+```bash
+git submodule update --init --recursive
+```
+
 # Appearance
 
 ## Fonts
