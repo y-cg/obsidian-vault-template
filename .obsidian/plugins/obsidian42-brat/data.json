@@ -1,0 +1,16 @@
+{
+  "allowIncompatiblePlugins": false,
+  "debuggingMode": false,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
+  "selectLatestPluginVersionByDefault": false,
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true
+}
