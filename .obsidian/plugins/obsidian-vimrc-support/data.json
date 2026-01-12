@@ -1,0 +1,14 @@
+{
+  "capturedKeyboardMap": {},
+  "displayChord": false,
+  "displayVimMode": true,
+  "fixedNormalModeLayout": false,
+  "supportJsCommands": false,
+  "vimStatusPromptMap": {
+    "insert": "\ud83d\udfe0",
+    "normal": "\ud83d\udfe2",
+    "replace": "\ud83d\udd34",
+    "visual": "\ud83d\udfe1"
+  },
+  "vimrcFileName": ".obsidian.vimrc"
+}
