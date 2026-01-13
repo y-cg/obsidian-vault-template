@@ -18,6 +18,10 @@ Then initialize the submodules used by this template:
 git submodule update --init --recursive
 ```
 
+# Features
+
+- Write in your own favorite editor with the support of [oxide-md](https://oxide.md) language server.
+
 # Appearance
 
 ## Fonts

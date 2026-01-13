@@ -10,6 +10,7 @@
   # https://devenv.sh/packages/
   packages = with pkgs; [
     lazygit
+    markdown-oxide
   ];
 
   # https://devenv.sh/languages/
