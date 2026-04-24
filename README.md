@@ -12,12 +12,6 @@ git fetch upstream
 git merge --allow-unrelated-histories upstream/master
 ```
 
-Then initialize the submodules used by this template:
-
-```bash
-git submodule update --init --recursive
-```
-
 # Features
 
 - Write in your own favorite editor with the support of [oxide-md](https://oxide.md) language server.
@@ -26,8 +20,8 @@ git submodule update --init --recursive
 
 ## Fonts
 
-- Interface Font: Avenir Next (parts of macOS builtin fonts)
-- Editor Font: Avenir Next
+- Interface Font: Avenir Next (parts of macOS builtin fonts), Noto Serif CJK SC (chinese font)
+- Editor Font: Avenir Next, Noto Serif CJK SC (chinese font)
 - Monospace Font: [Iosevka](https://github.com/be5invis/Iosevka)
 
 ## Reminder

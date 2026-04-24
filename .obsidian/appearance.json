@@ -2,9 +2,9 @@
   "baseFontSize": 18,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [],
-  "interfaceFontFamily": "Avenir Next",
+  "interfaceFontFamily": "Avenir Next,Noto Serif CJK SC",
   "monospaceFontFamily": "Iosevka",
-  "textFontFamily": "Avenir Next",
+  "textFontFamily": "Avenir Next,Noto Serif CJK SC",
   "theme": "system",
   "translucency": false
 }
