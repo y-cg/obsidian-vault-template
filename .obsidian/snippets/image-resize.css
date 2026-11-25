@@ -1,0 +1,80 @@
+/* https://forum.obsidian.md/t/image-resize-allow-relative-units-not-just-pixels-or-pandoc-notation/16880/6 */
+img[alt*="w5"] {
+    width: 5% !important;
+}
+
+img[alt*="w10"] {
+    width: 10% !important;
+}
+
+img[alt*="w15"] {
+    width: 15% !important;
+}
+
+img[alt*="w20"] {
+    width: 20% !important;
+}
+
+img[alt*="w25"] {
+    width: 25% !important;
+}
+
+img[alt*="w30"] {
+    width: 30% !important;
+}
+
+img[alt*="w35"] {
+    width: 35% !important;
+}
+
+img[alt*="w40"] {
+    width: 40% !important;
+}
+
+img[alt*="w45"] {
+    width: 45% !important;
+}
+
+img[alt*="w50"] {
+    width: 50% !important;
+}
+
+img[alt*="w55"] {
+    width: 55% !important;
+}
+
+img[alt*="w60"] {
+    width: 60% !important;
+}
+
+img[alt*="w65"] {
+    width: 65% !important;
+}
+
+img[alt*="w70"] {
+    width: 70% !important;
+}
+
+img[alt*="w75"] {
+    width: 75% !important;
+}
+
+img[alt*="w80"] {
+    width: 80% !important;
+}
+
+img[alt*="w85"] {
+    width: 85% !important;
+}
+
+img[alt*="w90"] {
+    width: 90% !important;
+}
+
+img[alt*="w95"] {
+    width: 95% !important;
+}
+
+img[alt*="w100"] {
+    width: 100% !important;
+}

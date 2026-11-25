@@ -1,0 +1,7 @@
+/* https://docs.obsidian.md/Reference/CSS+variables/Foundations/Typography */
+html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}

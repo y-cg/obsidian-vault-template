@@ -1,0 +1,10 @@
+/*
+ * https://forum.obsidian.md/t/align-image/78050
+ * https://www.reddit.com/r/ObsidianMD/comments/v1fs0f/centering_images_in_reading_mode/
+ * FIXME: the centering only take effect in preview mode
+ */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
